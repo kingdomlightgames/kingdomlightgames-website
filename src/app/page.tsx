@@ -25,7 +25,7 @@ const inventoryItems = [
     category: "Magic: The Gathering",
     title: "Singles and Commander Staples",
     text: "Browse cards for Commander decks, collections, upgrades, and everyday play.",
-    href: "https://manapool.com/shop/kingdomlightgames",
+    href: "https://shop.kingdomlightgames.com/",
     linkText: "Shop on ManaPool",
   },
   {
