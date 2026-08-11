@@ -25,7 +25,7 @@ const inventoryItems = [
     category: "Magic: The Gathering",
     title: "Singles and Commander Staples",
     text: "Browse cards for Commander decks, collections, upgrades, and everyday play.",
-    href: "https://shop.kingdomlightgames.com/",
+    href: "https://manapool.com/shop/kingdomlightgames",
     linkText: "Shop on ManaPool",
   },
   {
@@ -124,7 +124,7 @@ export default function Home() {
           </nav>
 
           <a
-            href="https://manapool.com/shop/kingdomlightgames"
+            href="https://shop.kingdomlightgames.com"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center rounded-full bg-neutral-950 px-5 py-2.5 text-xs font-semibold uppercase tracking-[0.16em] text-white transition hover:bg-[#a57c19]"
